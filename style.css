@@ -1,0 +1,28 @@
+body
+{
+background-color:#0049FF;
+}
+#div1
+{
+margin: 5% 20% 10% 20%;
+background:#000000;
+
+}
+#div2
+{
+
+background:#FFFFFF;
+align:center;
+font-size:25px;
+
+}
+
+button
+{
+border-radius: 25px 25px 25px 25px solid;
+width:30px;
+}
+#clr
+{
+width:60px;
+}
